@@ -1,3 +1,5 @@
-Task,Owner,Due Date,Status
-Prepare report,PM,2026-05-15,In Progress
-Update dashboard,Analyst,2026-05-18,Not Started
+Task,Owner,Due Date,Priority,Status,Source
+Draft onboarding workflow redesign,PM,2026-05-15,High,In Progress,Meeting #1
+Evaluate AI summarization tools,IT Support,2026-05-18,Medium,Not Started,Meeting #1
+Create approval tracking dashboard,Operations Lead,2026-05-20,High,In Progress,Meeting #1
+Prepare stakeholder update presentation,PM,2026-05-21,Medium,Not Started,Weekly Review
