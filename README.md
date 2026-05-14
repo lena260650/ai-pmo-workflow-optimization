@@ -176,17 +176,23 @@ Estimated average effort per meeting:
 - AI-assisted workflow: ~25–35 minutes
 
 The results are intended as an illustrative operational model rather than a formal benchmark study.
----
+
 ## How to Use This Repository
 
-1. Copy the prompt templates from `/01-meeting-management`
-2. Paste your meeting notes into ChatGPT, Claude, or similar AI tool
-3. Generate structured outputs:
+1. Review the workflow diagram and repository structure
+2. Copy the AI prompt templates from `/01-meeting-management`
+3. Paste raw meeting notes into ChatGPT, Claude, or similar AI tools
+4. Generate structured outputs such as:
    - Meeting summaries
-   - Action items
+   - Action-item logs
    - Status reports
-4. Store outputs back into your workflow documentation
-5. Use diagrams to visualize process flow improvements
+5. Store outputs back into project documentation workflows
+6. Use the examples in this repository as templates for process optimization initiatives
+---
 ## Author
 
 PMP-certified Project Manager with 10+ years of experience in Banking, Fintech, and ICT, specializing in digital transformation, process improvement, and AI-enabled workflow optimization.
+
+## Disclaimer
+
+All examples in this repository are fictional or anonymized and created for demonstration and educational purposes only.
