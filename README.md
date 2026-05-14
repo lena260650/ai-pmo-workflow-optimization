@@ -156,9 +156,37 @@ This workflow is applicable to:
 - Automated calendar scheduling workflows
 - Real-time AI meeting assistant integration
 - Dashboard for action-item tracking and reporting analytics
-
 ---
+## Methodology Behind Efficiency Estimate
 
+The estimated 30–40% reduction in manual administrative effort is based on comparative workflow simulations and time-tracking analysis across recurring project management activities.
+
+The estimate was derived by comparing:
+- Manual meeting documentation workflows
+- AI-assisted workflows using ChatGPT, Claude, and Notion AI
+
+Activities evaluated included:
+- Meeting summarization
+- Action-item extraction
+- Status report preparation
+- Follow-up coordination
+
+Estimated average effort per meeting:
+- Manual workflow: ~45–60 minutes
+- AI-assisted workflow: ~25–35 minutes
+
+The results are intended as an illustrative operational model rather than a formal benchmark study.
+---
+## How to Use This Repository
+
+1. Copy the prompt templates from `/01-meeting-management`
+2. Paste your meeting notes into ChatGPT, Claude, or similar AI tool
+3. Generate structured outputs:
+   - Meeting summaries
+   - Action items
+   - Status reports
+4. Store outputs back into your workflow documentation
+5. Use diagrams to visualize process flow improvements
 ## Author
 
 PMP-certified Project Manager with 10+ years of experience in Banking, Fintech, and ICT, specializing in digital transformation, process improvement, and AI-enabled workflow optimization.
