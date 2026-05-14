@@ -45,7 +45,7 @@ The system integrates AI tools into daily project execution to reduce manual wor
 ---
 
 ## Workflow Design
-
+![AI Workflow Diagram](04-scheduling-workflows/workflow-diagram.png)
 ### 1. Meeting Capture
 
 - Raw meeting notes are collected during or after meetings
